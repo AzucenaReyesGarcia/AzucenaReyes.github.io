@@ -1,5 +1,5 @@
 # AzucenaReyes.github.io
 
-# Mi pagina web
+Mi pagina web
 
-# Este cambio viene desde mi PC 
+Este cambio viene desde mi PC 
